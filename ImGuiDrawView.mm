@@ -243,7 +243,7 @@ static bool MenDeal = true;
 			if (MenDeal == true)
 			{
 					
-            ImGui::Begin("Pookie Butt V2 | made with love by @iosdevice");
+            ImGui::Begin("MOD MENU");
 
 			if (ImGui::BeginTabBar("MainTabBar")) {
 			
